@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Show Data API</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="aboutUs">This application displays a list of random jokes. The jokes are taken from the Free Open API created by David Katz. The API is uploaded to github.
+
+        The jokes are in English. The jokes have a setup and a puncline. Setup is the premise or introductory sentence. While the punchline is the closing part that is funny and surprising.</string>
+</resources>
